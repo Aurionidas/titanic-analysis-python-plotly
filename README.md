@@ -5,7 +5,7 @@ Exploratory analysis of the Titanic dataset using Python, Pandas and Plotly.
 
 # Titanic Analysis with Python & Plotly
 
-This project analyzes the Titanic passenger dataset using Python and Plotly to explore factors that influenced survival, such as gender, ticket class, hosting zones inside the ship
+This project analyzes the Titanic passenger dataset using Python and Plotly to explore factors that influenced survival, such as gender, ticket class and hosting zones inside the ship.
 
 Although the original report was a group project for a university statistics course, **all Python code, data processing, and visualizations were created independently by me**.
 
