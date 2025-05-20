@@ -1,11 +1,11 @@
-# titanic-analysis-python-plotly
-Exploratory analysis of the Titanic dataset using Python, Pandas and Plotly.
+# Titanic Analysis with Python & Plotly
+Exploratory analysis of the Titanic dataset using Python, Pandas, and Plotly.
 
 > ⚠️ This project is currently under revision. A cleaned and structured version of the notebook is coming soon.
 
-# Titanic Analysis with Python & Plotly
+## 📌 Project Overview
 
-This project analyzes the Titanic passenger dataset using Python and Plotly to explore factors that influenced survival, such as gender, ticket class and hosting zones inside the ship.
+This project analyzes the Titanic passenger dataset using Python and Plotly to explore factors that influenced survival, such as gender, ticket class, fare paid, and cabin location.
 
 Although the original report was a group project for a university statistics course, **all Python code, data processing, and visualizations were created independently by me**.
 
@@ -23,20 +23,21 @@ Although the original report was a group project for a university statistics cou
 
 ## 📈 Main Features
 - Cleaned and transformed real-world Titanic data (`titanic3.xlsx`).
-- Created interactive visualizations with Plotly.
+- Created interactive visualizations using Plotly.
 - Grouped passengers by age, class, and gender to discover survival patterns.
-- Applied data discretization and categorization for better insights.
+- Applied data discretization and categorization for deeper insights.
 
-## 📁 Files in this Repo
-- `TitanicFinalCode.ipynb`: Jupyter Notebook with all code, graphs, and analysis.
-- `titanic3.xlsx`: Dataset used (from Kaggle).
-- `Informe_Pfinal.pdf`: Final group report in Spanish (for academic reference).
-- `Informe_Pfinal_English.pdf`: Final group report Translated in English for the purpose of this portfolio.
+## 📁 Files in this Repository
+- `TitanicFinalCode.ipynb`: Jupyter Notebook with all code, visualizations, and analysis.
+- `titanic3.xlsx`: Dataset used (sourced from Kaggle).
+- `Informe_Pfinal.pdf`: Original academic report in Spanish.
+- `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio.
 
-## 📌 Author
+## 👤 Author
 **Juan David López**  
 Bilingual Data Enthusiast | Python & Analytics  
 [LinkedIn](https://www.linkedin.com/in/juan-davd-lopez) • [Email](mailto:jld.stowaway325@passinbox.com)
+
 
 
 
