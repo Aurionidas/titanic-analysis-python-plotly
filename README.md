@@ -31,7 +31,7 @@ Although the original report was a group project for a university statistics cou
 - `TitanicFinalCode.ipynb`: Jupyter Notebook with all code, visualizations, and analysis.
 - `titanic3.xlsx`: Dataset used (sourced from Kaggle).
 - `Informe_Pfinal.pdf`: Original academic report in Spanish.
-- `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio.
+- `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio (Coming soon).
 
 ## 👤 Author
 **Juan David López**  
