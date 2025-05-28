@@ -9,6 +9,8 @@ This project analyzes the Titanic passenger dataset using Python and Plotly to e
 
 Although the original report was a group project for a university statistics course, **all Python code, data processing, and visualizations were created independently by me**.
 
+In this repository, you will find two Jupyter notebooks. The first contains the original version of the code; the second is a cleaner, more professional, and readable version. It is important to note that I learned Python on the go for my numerical methods and statistics classes at college, so back then I had no idea how to take a correct approach to Pythonic coding and best practices.
+
 ## 🔧 Tools & Libraries Used
 - Jupyter Notebook
 - Python
@@ -29,9 +31,31 @@ Although the original report was a group project for a university statistics cou
 
 ## 📁 Files in this Repository
 - `TitanicFinalCode.ipynb`: Jupyter Notebook with all code, visualizations, and analysis.
+- `TitanicFinalCode_2025.ipynb`: Jupyter Notebook with a clean, standardized version of the code.
 - `titanic3.xlsx`: Dataset used (sourced from Kaggle).
 - `Informe_Pfinal.pdf`: Original academic report in Spanish.
 - `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio (Coming soon).
+
+##⚙️ Installation & Setup
+1. Clone the repository (if you haven’t already):
+    git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
+    cd titanic-analysis-python-plotly
+
+2. Install Python dependencies
+    You can install the required libraries using `pip`:
+    pip install pandas numpy plotly openpyxl
+
+4. (Optional) Create a virtual environment
+    This is recommended to avoid conflicts with other Python projects:
+     python -m venv venv
+     venv\Scripts\activate
+     pip install pandas numpy plotly openpyxl
+
+6. Open the notebook
+    Launch Jupyter Notebook or JupyterLab:
+    jupyter notebook
+
+
 
 ## 👤 Author
 **Juan David López**  
