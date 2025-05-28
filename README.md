@@ -31,7 +31,7 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
 
 ## 📁 Files in this Repository
 - `TitanicFinalCode.ipynb`: Jupyter Notebook with all code, visualizations, and analysis.
-- `TitanicFinalCode_2025.ipynb`: Jupyter Notebook with a clean, standardized version of the code (Coming soon).
+- `TitanicFinalCode_2025.ipynb`: Jupyter Notebook with a clean, standardized version of the code (Under Construction).
 - `titanic3.xlsx`: Dataset used (sourced from Kaggle).
 - `Informe_Pfinal.pdf`: Original academic report in Spanish.
 - `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio (Coming soon).
