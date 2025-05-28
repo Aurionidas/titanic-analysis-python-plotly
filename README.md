@@ -38,7 +38,9 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
 
 ## ⚙️ Installation & Setup
 - Clone the repository (if you haven’t already):
+  
     git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
+  
     cd titanic-analysis-python-plotly
 
 - Install Python dependencies
