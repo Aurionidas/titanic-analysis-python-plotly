@@ -43,17 +43,20 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
   
     cd titanic-analysis-python-plotly
 
-- Install Python dependencies
+- Install Python dependencies:
+  
     You can install the required libraries using `pip`:
     pip install pandas numpy plotly openpyxl
 
 - (Optional) Create a virtual environment
     This is recommended to avoid conflicts with other Python projects:
+  
      python -m venv venv
      venv\Scripts\activate
      pip install pandas numpy plotly openpyxl
 
 - Open the notebook
+- 
     Launch Jupyter Notebook or JupyterLab:
     jupyter notebook
 
