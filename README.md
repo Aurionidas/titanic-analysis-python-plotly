@@ -38,30 +38,28 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
 
 ## ⚙️ Installation & Setup
 - Clone the repository (if you haven’t already):
-  
-    git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
-  
-    cd titanic-analysis-python-plotly
+  ```bash
+  git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
+  cd titanic-analysis-python-plotly
 
 - Install Python dependencies:
   
-    You can install the required libraries using `pip`:
-  
-    pip install pandas numpy plotly openpyxl
+  You can install the required libraries using `pip`:
+  ```bash
+  pip install pandas numpy plotly openpyxl
 
 - (Optional) Create a virtual environment
-    This is recommended to avoid conflicts with other Python projects:
   
-     python -m venv venv
-  
-     venv\Scripts\activate
-  
-     pip install pandas numpy plotly openpyxl
+  This is recommended to avoid conflicts with other Python projects:
+  ```bash
+  python -m venv venv
+  venv\Scripts\activate
+  pip install pandas numpy plotly openpyxl
 
 - Open the notebook
-- 
-    Launch Jupyter Notebook or JupyterLab:
   
+  Launch Jupyter Notebook or JupyterLab:
+  ```bash
     jupyter notebook
 
 
