@@ -36,7 +36,7 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
 - `Informe_Pfinal.pdf`: Original academic report in Spanish.
 - `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio (Coming soon).
 
-##⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1. Clone the repository (if you haven’t already):
     git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
     cd titanic-analysis-python-plotly
