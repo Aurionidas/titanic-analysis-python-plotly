@@ -37,21 +37,21 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
 - `Informe_Pfinal_English.pdf`: English-translated version of the final report, created for this portfolio (Coming soon).
 
 ## ⚙️ Installation & Setup
-1. Clone the repository (if you haven’t already):
+- Clone the repository (if you haven’t already):
     git clone https://github.com/Aurionidas/titanic-analysis-python-plotly
     cd titanic-analysis-python-plotly
 
-2. Install Python dependencies
+- Install Python dependencies
     You can install the required libraries using `pip`:
     pip install pandas numpy plotly openpyxl
 
-4. (Optional) Create a virtual environment
+- (Optional) Create a virtual environment
     This is recommended to avoid conflicts with other Python projects:
      python -m venv venv
      venv\Scripts\activate
      pip install pandas numpy plotly openpyxl
 
-6. Open the notebook
+- Open the notebook
     Launch Jupyter Notebook or JupyterLab:
     jupyter notebook
 
