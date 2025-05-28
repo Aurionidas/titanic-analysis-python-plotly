@@ -60,7 +60,7 @@ In this repository, you will find two Jupyter notebooks. The first contains the 
   
   Launch Jupyter Notebook or JupyterLab:
   ```bash
-    jupyter notebook
+  jupyter notebook
 
 
 
